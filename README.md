@@ -17,3 +17,11 @@ To run the script to invesigate the Numpy.random package and it's functions with
 
 
 # Conclusion:
+In the notebook, 100 random samples are theoretically taken from Irish suicide rates over the last 10 years.Four variables are produced. These include age, gender, year and county (location).These reseults can be seen in the table above.
+
+Data is generated to represent the total male and female sucide rates for each year from 2008 to 2018 based on the actual min and max values of the recorded suicide rates.
+
+Each time the data is generated it should be different, from analysing the data you make notice a trend with certain counties, gender and age.
+The average suicide rate for both male and female throughout the years is calculated.
+
+Histograms are used to compare the random data generated.
